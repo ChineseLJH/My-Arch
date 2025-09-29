@@ -1,0 +1,13 @@
+# Editor backup and swap files
+*~
+*.swp
+*.swo
+*.bak
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Compiled binary files (just in case)
+*.out
+*.o
