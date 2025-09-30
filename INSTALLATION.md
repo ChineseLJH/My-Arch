@@ -10,9 +10,9 @@
 
 我也是在自己熟悉了一段时间**Ubuntu**的操作之后才开始尝试的 **Arch Linux** ，结合整个的安装过程,我认为是需要有一定的Linux基础的💪，并不是很适合没有尝试过Linux的**纯萌新**来做尝试🤕，所以接下来的教程我会**默认**认为你有一定的基础 👊
 
-### Arch Linux 镜像下载
+对于**Windows**系统下如何创建“未分配”空间以及怎么关闭**BitLocker**，怎么关闭**BIOS**中的安全启动(Secure Boot)等比较常规的操作，我都不会一一教学，接下来就让我们开始吧。
 
-对于**Windows**系统下如何创建“未分配”空间以及怎么关闭**BitLocker**，怎么关闭**BIOS**中的安全启动(Secure Boot)等比较常规的操作。
+### Arch Linux 镜像下载
 
 [**Arch Linux**](https://archlinux.org/) 这就是Arch Linux的官网,相较于 [**Ubuntu**](https://cn.ubuntu.com/) 的官网，就显得有点凌乱()。[**Download**](https://archlinux.org/download/) 这就是官网的下载网页，我选了全球的geo.mirror.pkgbuild.com的，国内也有很多的镜像可以直接下载，这里就不多赘述。
 
