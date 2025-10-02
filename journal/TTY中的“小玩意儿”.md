@@ -119,3 +119,12 @@
   <img src="../assets/pacman4console.jpg" width="400">
 </p>
 
+用 `yay -S pacman4console` 即可完成安装。
+
+`pacman4console` 是一个制作精良的 **ASCII** 版吃豆人游戏(好像还有音效，但我可能没装相关包所以没听到)。
+
+## 结语
+
+这些就是我这几天看到的有趣的“小玩意儿”，至于一些好用的功能的 **包** 我会放在 **reference** 里面，一些打算写的还没来的及的也会在 **RREADME** 里面留下痕迹。
+
+那么，我们下次再见！！！

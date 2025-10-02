@@ -16,6 +16,7 @@
 
 ## 📚 我的知识库 (Reference)
 
+yay man/less tmux
 
 
 ---
