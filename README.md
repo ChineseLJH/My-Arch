@@ -17,7 +17,9 @@
 
 ## 📚 我的知识库 (Reference)
 
-yay man/less tmux
++ **2025-10-06** - [yay：让你的Arch更完整](./reference/yay：让你的Arch更完整.md)
+
+man/less tmux
 
 
 ---
